@@ -21,6 +21,9 @@ The business objective is to develop a model that accurately predicts whether a 
 5. **Model Improvement:** Explore feature engineering (e.g., removing irrelevant features), hyperparameter tuning (using GridSearchCV), and alternative performance metrics (e.g., F1-score) to enhance model accuracy.
 6. **Visualization:** Use visualizations to understand data distributions, feature relationships, and model results.
 
+## Python code 
+https://github.com/Biju-Seth/Marketing_Campaign/blob/main/marketing_campaign_model.ipynb
+
 ## Key Findings
 
 **Initial model comparison**
